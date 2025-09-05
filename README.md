@@ -33,7 +33,7 @@ Welcome to the IPL Data Visualization Project! This Jupyter Notebook uses Python
    `
 3. Run the cells and explore the insights!
 
-##🎯 Goals
+## 🎯 Goals
 
 - Practice data visualization techniques
 - Understand IPL dynamics through data
