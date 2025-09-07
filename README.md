@@ -44,5 +44,6 @@ Welcome to the IPL Data Visualization Project! This Jupyter Notebook uses Python
 If you have any questions, suggestions, or feedback, feel free to reach out:  
 
 - *Name*: Prachi Paliwal
+- *Gmail*: prachipaliwal745@gmail.com 
 - *GitHub*: [Prachi005748](https://github.com/Prachi005748)  
 - *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/)  
